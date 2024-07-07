@@ -1,4 +1,4 @@
 <?php
-echo "Hello Git";
+echo "New Hello Git";
 echo "¿Qué tal el curso?";
 ?>
