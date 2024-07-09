@@ -1,3 +1,3 @@
 <?php 
-    echo "Login v22"
+    echo "Login v2"
 ?>
